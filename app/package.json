@@ -8,7 +8,7 @@
     "react-async": "^6.2.2",
     "react-dom": "^16.6.3",
     "react-router-dom": "^5.0.1",
-    "react-scripts": "2.1.1",
+    "react-scripts": "5.0.1",
     "react-svg-radar-chart": "^1.2.0",
     "recharts": "^1.6.2",
     "xlsx": "^0.14.3"
